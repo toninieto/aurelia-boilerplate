@@ -1,6 +1,6 @@
 {
-  "name": "contact-manager",
-  "description": "An Aurelia client application.",
+  "name": "aurelia-boilerplate",
+  "description": "Boilerplate for aurelia client application.",
   "version": "0.1.0",
   "repository": {
     "type": "???",
